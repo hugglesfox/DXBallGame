@@ -4,7 +4,6 @@
 #include <array>
 #include <memory>
 #include <vector>
-#include <json.h>
 #include "splashkit/splashkit.h"
 #include "global_constants.h"
 
